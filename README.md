@@ -1,5 +1,8 @@
 # Cutie Labeling Assist Panel (Add-On)
 
+<img width="2006" height="867" alt="image" src="https://github.com/user-attachments/assets/6c349ede-00a4-4b34-a04f-06373ab58e95" />
+
+
 This add-on injects a Labeling Assist Panel into the Cutie UI so you can proofread and quickly fix labeling after an initial propagation pass. By pasting a short snippet at the end of __init__, the panel appears as an additional tool docked to the Cutie interface.
 
 **Where to paste**: Cutie/gui/main_controller.py — around line 128 (the last line of __init__).
