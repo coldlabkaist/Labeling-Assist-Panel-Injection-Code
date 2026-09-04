@@ -1,3 +1,4 @@
+<img width="352" height="851" alt="스크린샷 2026-08-20 153518" src="https://github.com/user-attachments/assets/cbf0d438-3511-4e02-8277-940ff854b375" />
 # Cutie Labeling Assist Panel (Add-On)
 
 <img width="2006" height="867" alt="image" src="https://github.com/user-attachments/assets/6c349ede-00a4-4b34-a04f-06373ab58e95" />
@@ -53,6 +54,8 @@ Visualization from the main Cutie UI still applies during Assist Panel playback,
 but does not apply when sampling is enabled (sampling is for quick screening).
 
 ## Typical Workflow
+
+<img width="352" height="851" alt="스크린샷 2026-08-20 153518" src="https://github.com/user-attachments/assets/9e5d5c9c-566b-4ad5-9426-99fdc9258753" />
 
 1. Run your standard full propagation (without manual supervision)
 
