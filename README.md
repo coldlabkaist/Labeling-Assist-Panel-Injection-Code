@@ -1,4 +1,3 @@
-<img width="352" height="851" alt="스크린샷 2026-08-20 153518" src="https://github.com/user-attachments/assets/cbf0d438-3511-4e02-8277-940ff854b375" />
 # Cutie Labeling Assist Panel (Add-On)
 
 <img width="2006" height="867" alt="image" src="https://github.com/user-attachments/assets/6c349ede-00a4-4b34-a04f-06373ab58e95" />
